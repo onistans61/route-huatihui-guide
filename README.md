@@ -1,2 +1,14 @@
 # route-huatihui-guide
-HTML page archive and documentation
+
+页面发布与维护记录
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 文件用途
+
+- HTML 文件保存页面内容
+- README 记录仓库基本信息
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
